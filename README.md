@@ -1,2 +1,2 @@
-# primerproyecto
-Mi primera Landing Page
+# Proyecto2
+Proyecto Clase 2 Coderhouse

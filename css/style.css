@@ -1,0 +1,35 @@
+  
+/*
+Css del mi INDEX  
+*/
+
+
+
+
+     p {color:blue; font-family: Helvetica, Arial, sans-serif; font-size: 24px; } 
+	h2 {color:blue; font-family: Helvetica, Arial, sans-serif; font-size: 24px; } 
+	h3 {color:blue; font-family: Helvetica, Arial, sans-serif; font-size: 18px; } 
+	h1 {color:blue; font-family: Helvetica, Arial, sans-serif; font-size: 24px; } 
+
+   	th {color:black} 
+
+    li {color:black} 
+
+    body {background-color: #F0F8FF;}
+
+   li { font-family: Helvetica, Arial, sans-serif; font-size: 12px;
+    padding-top: 30px;
+    padding-right: 80px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+}
+
+th { font-family: Helvetica, Arial, sans-serif; font-size: 18px;
+    padding-top: 30px;
+    padding-right: 80px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+}
+
+table {width:100%;align:center
+}
